@@ -712,39 +712,69 @@ node scripts/create-markets.cjs
 ## 🗺️ Roadmap
 
 ### Phase 1: Foundation (Completed ✅)
-- [x] Smart contract development (FHE-enabled)
-- [x] Frontend UI with React + TailwindCSS
-- [x] Wallet integration (MetaMask)
-- [x] FHE SDK integration (Zama Relayer)
-- [x] Testnet deployment (Sepolia)
-- [x] Production deployment (Vercel)
+- [x] Core smart contract with FHE encryption
+- [x] Web interface with wallet connection
+- [x] Binary prediction markets (YES/NO)
+- [x] Testnet deployment and testing
+- [x] Production hosting
 
-### Phase 2: Enhanced Features (Q1 2025)
-- [ ] Market creation UI for users
-- [ ] Advanced market filtering and search
-- [ ] User portfolio tracking
-- [ ] Position history and analytics
-- [ ] Email/Discord notifications
+### Phase 2: Platform Enhancement
+- [ ] Public market creation interface
+- [ ] Advanced filtering and search
+- [ ] Portfolio dashboard
+- [ ] Historical position tracking
+- [ ] Real-time notifications
+- [ ] Performance analytics
 
-### Phase 3: Ecosystem Growth (Q2 2025)
-- [ ] Oracle integration (Chainlink, API3)
-- [ ] Multi-token support (USDC, DAI)
-- [ ] Liquidity pools for market making
-- [ ] Leaderboard with on-chain achievements
-- [ ] Referral rewards program
+### Phase 3: Oracle Integration
+- [ ] Chainlink price feeds
+- [ ] Sports result oracles
+- [ ] Economic data providers
+- [ ] Automated resolution system
+- [ ] Dispute mechanism
+- [ ] Multi-source verification
 
-### Phase 4: Mainnet Launch (Q3 2025)
-- [ ] Professional security audit
-- [ ] Mainnet deployment (Ethereum, Polygon)
-- [ ] Token launch ($PHANTOM)
-- [ ] Governance system (DAO)
-- [ ] Mobile app (iOS, Android)
+### Phase 4: Liquidity & Economics
+- [ ] Additional payment tokens (USDC, USDT)
+- [ ] Liquidity mining rewards
+- [ ] Market maker incentives
+- [ ] Trading fee optimization
+- [ ] Revenue sharing model
 
-### Phase 5: Advanced Privacy (Q4 2025)
-- [ ] Zero-knowledge proofs for resolution
+### Phase 5: Security Hardening
+- [ ] Third-party smart contract audit
+- [ ] Bug bounty program
+- [ ] Formal verification
+- [ ] Insurance fund
+- [ ] Emergency pause mechanism
+
+### Phase 6: Mainnet Expansion
+- [ ] Ethereum mainnet deployment
+- [ ] Layer 2 integration (Arbitrum, Optimism)
+- [ ] Cross-chain bridge
+- [ ] Multi-network support
+- [ ] Gas optimization
+
+### Phase 7: Governance & Community
+- [ ] Native governance token
+- [ ] DAO structure
+- [ ] Proposal voting system
+- [ ] Community treasury
+- [ ] Parameter adjustment rights
+
+### Phase 8: Mobile & Accessibility
+- [ ] Progressive Web App (PWA)
+- [ ] Native mobile apps (iOS/Android)
+- [ ] Telegram/Discord bots
+- [ ] API for third-party integrations
+- [ ] Multi-language support
+
+### Phase 9: Advanced Privacy Features
+- [ ] Zero-knowledge proof resolution
 - [ ] Private market creation
-- [ ] Encrypted chat for market discussion
-- [ ] Cross-chain FHE bridge
+- [ ] Encrypted messaging
+- [ ] Anonymous betting
+- [ ] Privacy-preserving analytics
 
 ## 📄 License
 
